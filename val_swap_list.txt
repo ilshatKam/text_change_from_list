@@ -29,7 +29,6 @@ aff_trans = affinar
 b_inv = re_y
 b_in = vhod_y
 temp_prod = vrem_proizv
-prod = proizv
 b_out = vih_y
 mult_pol = mnoj
 add_pol = slag
